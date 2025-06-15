@@ -1,114 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shubham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20Aspirant%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Shubham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20BTech%20CS%20(Data%20Science)%20%7C%20The%20NorthCap%20University&descAlignY=60&descAlign=50" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+React+Developer;Data+Science+%7C+AI+%7C+ML+Enthusiast;Passionate+about+solving+real-world+problems;Third+Year+BTech+CS+%7C+The+Northcap+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=Aspiring+Data+Science+Student;Data+Science+%7C+AI+%7C+ML+Enthusiast;Python+%7C+Java+%7C+C;Passionate+about+solving+real-world+problems;BTech+CS+(Data+Science)+%7C+The+NorthCap+University" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> Featured Projects</h2>
-</div>
+---
+
+## 👨‍💻 About Me
+
+🎓 I am a 3rd Year Computer Science student specializing in **Data Science** at **The NorthCap University**.  
+💡 Passionate about solving real-world problems using data-driven techniques.  
+🌱 Currently learning **Machine Learning**, **Deep Learning**, and **Computer Vision**.  
+📊 Skilled in data wrangling, analysis, and storytelling through tools like **Power BI**, **Tableau**, and **Python libraries**.  
+🚀 Open to internships and collaborative projects in **Data Science**, **AI**, and **Tech Consulting**.
+
+---
+
+## 🌟 Featured Projects
 
 <div align="center">
-  <table border="0" style="width:100%; border-collapse: collapse;">
+  <table>
     <tr>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kshubham29/Password-Generator">Password Generator</a></h3>
-        <img src="https://img.shields.io/badge/Java-Project-F7B42C?style=for-the-badge&logo=java&logoColor=white" alt="Java Project"/>
-        <br><br>
+        <img src="https://img.shields.io/badge/Java-Project-F7B42C?style=for-the-badge&logo=java&logoColor=white" />
         <ul align="left">
-          <li>Generates secure passwords based on user preferences</li>
-          <li>Uses Java, OOP principles, and algorithm design</li>
-          <li>Logs and recovers password history via file handling</li>
+          <li>Generates secure passwords with strength rating</li>
+          <li>Applies OOP & file handling in Java</li>
         </ul>
       </td>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kshubham29/University-Exam-Scheduler">Exam Scheduling System</a></h3>
-        <img src="https://img.shields.io/badge/DSA%20Project-F7B42C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA Project"/>
-        <br><br>
+        <img src="https://img.shields.io/badge/DSA%20Project-F7B42C?style=for-the-badge&logo=hackerrank&logoColor=white" />
         <ul align="left">
-          <li>Automates timetable creation using graphs & queues</li>
-          <li>Prevents exam clashes and room allocation errors</li>
-          <li>User-friendly input interface for real-time updates</li>
+          <li>Automates exam slot allocation using graphs, queues</li>
+          <li>Minimizes conflicts and maximizes efficiency</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kshubham29/Covid-Data-Analysis">COVID-19 Data Analysis</a></h3>
-        <img src="https://img.shields.io/badge/Python%20%7C%20Pandas-F7B42C?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Project"/>
-        <br><br>
+        <img src="https://img.shields.io/badge/Python%20%7C%20Pandas-F7B42C?style=for-the-badge&logo=python&logoColor=white" />
         <ul align="left">
-          <li>Cleaned and visualized pandemic data using Pandas</li>
-          <li>Created time-series plots and dashboards</li>
-          <li>Delivered insights via interactive charts</li>
+          <li>Cleaned & visualized COVID data with Pandas</li>
+          <li>Used Plotly & Matplotlib for trend analysis</li>
         </ul>
       </td>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kshubham29">More Projects</a></h3>
-        <img src="https://img.shields.io/badge/Coming-Soon-F7B42C?style=for-the-badge&logo=github&logoColor=white" alt="Coming Soon"/>
-        <br><br>
+        <img src="https://img.shields.io/badge/Coming-Soon-F7B42C?style=for-the-badge&logo=github&logoColor=white" />
         <ul align="left">
-          <li>House Price Prediction with Deep Learning & CV</li>
-          <li>Real-time Dashboard projects using Power BI</li>
-          <li>Internship & Freelance work coming soon!</li>
+          <li>House Price Prediction (CV + DL)</li>
+          <li>Real-time Power BI Dashboard Projects</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  <a href="https://github.com/kshubham29?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Explore+All+Repositories" alt="Explore All Projects" />
-  </a>
-</p>
+---
+
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![SQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### 🌐 Web Development
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+
+### 🛢️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+
+### 🛠 Tools & IDEs
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
+![IntelliJ](https://skillicons.dev/icons?i=intellij&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Skills & Technologies</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshubham29&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kshubham29&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshubham29&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=kshubham29&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <h3>💻 Programming</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,c,sql&theme=dark" alt="Languages" />
+---
 
-  <h3>📊 Data Science & Analytics</h3>
-  <img src="https://skillicons.dev/icons?i=tableau,excel&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
-
-  <h3>🌐 Web Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-  <h3>🛢️ Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-  <h3>🛠️ Tools & IDEs</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,intellij&theme=dark" />
-</div>
-
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Stats</h2>
-</div>
-
-<div align="center">
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshubham29&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
-    <br>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=kshubham29&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshubham29&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
-    </p>
-    <p>
-      <img src="https://streak-stats.demolab.com/?user=kshubham29&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </p>
-    <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=kshubham29&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-    </p>
-</div>
-
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me</h2>
-</div>
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shubhamkumar-ds/">
@@ -124,6 +121,8 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" alt="Footer"/>
